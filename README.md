@@ -1,4 +1,4 @@
-echo "# JenVdesk
+JenVdesk
 
 Script en Bash que mueve automáticamente archivos descargados o creados en el Escritorio a una carpeta remota (ej: NAS o unidad montada), con notificaciones visuales.
 
